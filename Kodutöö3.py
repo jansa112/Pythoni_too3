@@ -1,5 +1,5 @@
 # Jaanus Paasoja
-# 22.02.2021
+# 04.03.2021
 # Kodutöö 3
 # Ülikooli vastuvõetud
 fail = open("rebased.txt", encoding="UTF-8")
